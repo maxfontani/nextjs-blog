@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+A basic Next.JS blog template with dynamic routing and Chuck Norris jokes API ;) 
+
+Deployed at https://nextjs-blog-murex-sigma.vercel.app/
